@@ -21,7 +21,7 @@
   <img align="right"  height="140em" width="148" src="https://user-images.githubusercontent.com/91919483/154418881-8b5e67aa-ce0a-480b-a8ce-de62c87a90d8.gif"
  </div>
  
- ###
+ ##
  
 <div> 
   <a href="https://instagram.com/_johnnyalves_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
