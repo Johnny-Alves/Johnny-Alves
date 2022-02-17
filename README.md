@@ -1,6 +1,6 @@
 ### Hi!👾
 ### it's me Johnny 😊
- ⚡ Atualmente sou estudante de Desenvovimento de Sistemas / Senai.
+ ⚡ Estudante de Desenvovimento de Sistemas / Senai.
  
  🖥  Pretendendo cursar Analise e Desenvolvimento de Sistemas / PucMG.
  
