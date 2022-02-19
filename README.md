@@ -1,8 +1,6 @@
 ### Hi!👾
 ### it's me Johnny 😊 
-</div>
- <img align="right"  height="140em" width="148" src="https://user-images.githubusercontent.com/91919483/154418881-8b5e67aa-ce0a-480b-a8ce-de62c87a90d8.gif"
-</div>
+
  ⚡ Estudante de Desenvovimento de Sistemas / Senai.
  
  🖥  Pretendendo cursar Analise e Desenvolvimento de Sistemas / PucMG.
@@ -21,6 +19,7 @@
   <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Johnny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Johnny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="right"  height="140em" width="148" src="https://user-images.githubusercontent.com/91919483/154418881-8b5e67aa-ce0a-480b-a8ce-de62c87a90d8.gif"
  </div>
  
  ##
