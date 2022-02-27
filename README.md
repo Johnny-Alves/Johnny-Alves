@@ -1,11 +1,8 @@
-### Hi!👾
 ### it's me Johnny 😊 
 
  ⚡ Estudante de Desenvovimento de Sistemas / Senai.
- 
- 🖥  Pretendendo cursar Analise e Desenvolvimento de Sistemas / PucMG.
 
- 👨‍💻 Me aprefeiçoando em Java, Java script, Python. 
+ 👨‍💻 Me aprefeiçoando em Html, Java script, Css, Python. 
 
 <div align="center">
   <a href="https://github.com/JohnnyAlves">
