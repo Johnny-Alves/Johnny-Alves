@@ -1,7 +1,3 @@
-<div>
-  <img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1216800700802142261/1216800818817405049/1.png?ex=6601b512&is=65ef4012&hm=53be147f86a5d98b3c18e8de693a882a85b9b512c31367d417b7d22380e7eba6&"
-</div>  
-
   
 ### Hi there 👋
 
@@ -19,7 +15,7 @@ Atualmente sou formado em Desenvolvimento de sitemsa e curso Engenharia de Softw
  <img align="center" alt="Johnny-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
  <img align="center" alt="Johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="right"  height="140em" width="148" src="https://user-images.githubusercontent.com/91919483/154418881-8b5e67aa-ce0a-480b-a8ce-de62c87a90d8.gif"
+ <img align="right"  height="120em" width="120" src="https://user-images.githubusercontent.com/91919483/154418881-8b5e67aa-ce0a-480b-a8ce-de62c87a90d8.gif"
 </div>
   
   ##
