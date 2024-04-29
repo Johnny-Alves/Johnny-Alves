@@ -1,7 +1,7 @@
   
 ### Hi there 👋
 
-### Muito prazer, eu meu chamo Johnny, tenho 23 anos e sou Dev junior focado em programação web!
+### Muito prazer, eu meu chamo Johnny, tenho 24 anos e sou Dev junior focado em programação web!
 Atualmente sou formado em Desenvolvimento de sitemsa e curso Engenharia de Software. Aqui você encontra-ra alguns projetos desde o basico até o avançado. Todos os prjetos publicos são livres para vocês copiarem e ultilizarem em suas aplicações.👾
 
 <div align="center">
